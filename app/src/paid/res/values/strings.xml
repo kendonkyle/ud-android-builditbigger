@@ -1,0 +1,4 @@
+<resources>
+    <string name="instructions">This is the Paid Version so Please Press the button for a Premium joke!</string>
+    <string name="button_text">Tell Joke</string>
+</resources>

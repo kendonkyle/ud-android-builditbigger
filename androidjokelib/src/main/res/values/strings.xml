@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidJokelib</string>
+    <string name="joke_text_placeholder">Moses had the first tablet that could connect to the cloud.</string>
+</resources>
